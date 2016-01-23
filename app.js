@@ -7,9 +7,6 @@ var moment = require('moment');
 var app = express();
 var router = express.Router();
 
-// Set port
-// app.set('port', process.env.PORT || 3000);
-
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
