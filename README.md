@@ -1,4 +1,6 @@
-# Metric Story API - By Johnny Wu
+# Metric Story API
+
+@jonathanpeterwu
 
 [Project Spec Doc](https://paper.dropbox.com/doc/Metric-Story-Concurrent-API-Library-ZosYt4UJyctCKqMJb0N1R)
 
